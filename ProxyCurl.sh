@@ -1,6 +1,5 @@
 #!/bin/bash
 filename=$1
-i=1
 n=1
 while :
 do
