@@ -1,5 +1,5 @@
 # ProxyCurl
-Shell script to automate GET requests with curl using a proxy list.
+Shell script to automate GET requests with curl using a proxy list. Useful to analyze phishing websites that geofence or range fence.
 
 Usage:
 ```sh
